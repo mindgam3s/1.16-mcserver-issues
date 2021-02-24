@@ -1,38 +1,32 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+name: Bug-Report
+about: Erstelle einen Bug-Report
+title: Bug-Report - <THEMA>
+labels: bug
+assignees: mindgam3s
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Fehlerbeschreibung**
+Eine kurze und klare Beschreibung was für ein Fehler besteht.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Fehlerreproduktion**
+Wie man den Fehler reproduziert:
+1. Login auf dem Minecraft Server
+2. Befehlsfenster öffnen
+3. Befehl `/command parameter1 parameter2` eingeben
+4. Fehler wie beschrieben
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Erwartetes Verhalten**
+Eine klare und präzise Beschreibung was von dir erwartet wurde, was hätte passieren sollen
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Screenshot(s)**
+Falls sinnvoll oder notwendig Screenshots anfügen.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Minecraft Client Informationen**
+ - Client [z.B. JavaClient, BedrockClient, ForgeClient, LunarClient]
+ - Version [z.B. 1.16.5]
+ - Plugins (falls vorhanden) [z.B. OptiFine]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**Weitere Informationen**
+Alles weitere, von dem du denkst, dass es bei der Lösung des Problems helfen kann.
