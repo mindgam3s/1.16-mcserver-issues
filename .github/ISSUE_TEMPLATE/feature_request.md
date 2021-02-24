@@ -1,20 +1,21 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+name: Feature-Request
+about: Erstelle ein Feature-Request
+title: Feature-Request - <THEMA>
+labels: enhancement
+assignees: mindgam3s
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Gehört dein Feature-Request zu einem Problem? Bitte beschreibe das Thema**
+Eine kurze und klare Beschreibung was für ein Fehler besteht.
+Zum Beispiel: Es stört mich, dass immer wenn man [...] dass dann [...]
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Lösungsvorstellung**
+Eine kurze und klare Beschreibung, wie du dir wünschst, dass das Problem behoben wird.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Lösungsalternativen**
+Eine kurze und klare Beschreibung, wie das Problem auch gelöst werden könnte.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Weiteres**
+Alles weitere, von dem du denkst, dass es hilfreich ist.
